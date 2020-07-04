@@ -1,22 +1,22 @@
 [
 	{
 		"id":0,
-		"title":"ورزشی",
+		"title":"Sport",
 		"color":"#6abf69"
 	},
 	{
 		"id":0,
-		"title":"پوشاک",
+		"title":"Cloths",
 		"color":"#f57f17"
 	},
 	{
 		"id":0,
-		"title":"وسایل آشپزخانه",
+		"title":"Kitchenware",
 		"color":"#fdd835"
 	},
 	{
 		"id":0,
-		"title":"موسیقی",
+		"title":"Music",
 		"color":"#1976d2"
 	}
 ]

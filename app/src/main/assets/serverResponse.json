@@ -1,67 +1,67 @@
 [
 	{
 		"id":0,
-		"title":"شلوار مردانه",
+		"title":"trousers",
 		"categoryColor":"#f57f17"
 	},
 	{
 		"id":1,
-		"title":"کت تک",
+		"title":"coat",
 		"categoryColor":"#f57f17"
 	},
 	{
 		"id":2,
-		"title":"پیراهن مردانه",
+		"title":"men shirt",
 		"categoryColor":"#f57f17"
 	},
 	{
 		"id":3,
-		"title":"پیراهن زنانه",
+		"title":"woman shirt",
 		"categoryColor":"#f57f17"
 	},
 	{
 		"id":4,
-		"title":"شلوار زنانه",
+		"title":"Women's pants",
 		"categoryColor":"#f57f17"
 	},
 	{
 		"id":5,
-		"title":"توپ فوتبال",
+		"title":"Soccer ball",
 		"categoryColor":"#6abf69"
 	},
 	{
 		"id":6,
-		"title":"میز بیلیارد",
+		"title":"pool table",
 		"categoryColor":"#6abf69"
 	},
 	{
 		"id":7,
-		"title":"توپ والیبال",
+		"title":"Volleyball ball",
 		"categoryColor":"#6abf69"
 	},
 	{
 		"id":8,
-		"title":"چاقوی آشپزخانه",
+		"title":"Kitchen knife",
 		"categoryColor":"#fdd835"
 	},
 	{
 		"id":9,
-		"title":"قابلمه 6 تکه",
+			"title":"6-piece pot",
 		"categoryColor":"#fdd835"
 	},
 	{
 		"id":10,
-		"title":"گیتار",
+		"title":"Guitar",
 		"categoryColor":"#1976d2"
 	},
 	{
 		"id":11,
-		"title":"پیانو",
+		"title":"Piano",
 		"categoryColor":"#1976d2"
 	},
 	{
 		"id":12,
-		"title":"گیتار برقی",
+		"title":"electric guitar",
 		"categoryColor":"#1976d2"
 	}
 ]
